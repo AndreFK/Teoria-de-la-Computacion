@@ -1,0 +1,1 @@
+Herramienta para minimizar automatas

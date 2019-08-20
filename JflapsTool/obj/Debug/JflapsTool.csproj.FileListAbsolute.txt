@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\JflapsTool\JflapsTool\obj\Debug\JflapsTool.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\JflapsTool\JflapsTool\obj\Debug\JflapsTool.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\JflapsTool\JflapsTool\obj\Debug\JflapsTool.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\JflapsTool\JflapsTool\obj\Debug\JflapsTool.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\JflapsTool\JflapsTool\bin\Debug\JflapsTool.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\JflapsTool\JflapsTool\bin\Debug\JflapsTool.exe
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\JflapsTool\JflapsTool\bin\Debug\JflapsTool.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\JflapsTool\JflapsTool\obj\Debug\JflapsTool.exe
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\JflapsTool\JflapsTool\obj\Debug\JflapsTool.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\JflapsTool\JflapsTool\obj\Debug\JflapsTool.JflapTool.resources
