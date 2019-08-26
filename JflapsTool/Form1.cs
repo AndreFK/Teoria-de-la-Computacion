@@ -12,7 +12,7 @@ namespace JflapsTool
 {
     public partial class JflapTool : Form
     {
-        FileManager fm = new FileManager();
+        
         List<Node> nodes = new List<Node>();
         List<Transition> ts = new List<Transition>();
 
@@ -44,8 +44,13 @@ namespace JflapsTool
 
         private void min_btn_Click(object sender, EventArgs e)
         {
-            fm.LoadFile(textBox1.Text, nodes, ts);
-            fm.Unreachable(nodes, ts);
+            FileManager fm = new FileManager(textBox1.Text);
+            fm.LoadFile();
+            fm.Unreachable();
+            fm.MINIMINIMINI();
+
+            MessageBox.Show("Automata minimizado");
+
         }
     }
 }

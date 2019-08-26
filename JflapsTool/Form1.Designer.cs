@@ -69,6 +69,8 @@
             this.Controls.Add(this.min_btn);
             this.Controls.Add(this.load_btn);
             this.Controls.Add(this.textBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "JflapTool";
             this.Text = "Jflap Tool";
             this.ResumeLayout(false);
